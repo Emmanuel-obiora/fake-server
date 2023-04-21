@@ -1,0 +1,27 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "A server to manage a json-server db",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel-obiora/fake-server.git"
+  },
+  "author": "emmanuel-obiora",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "bugs": {
+    "url": "https://github.com/Emmanuel-obiora/fake-server/issues"
+  },
+  "homepage": "https://github.com/Emmanuel-obiora/fake-server#readme"
+}
+
+
+
+
