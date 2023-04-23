@@ -2,7 +2,7 @@
   "notify":[
     {
       "id": 1,
-      "icon": "public/images/avatar-mark-webber.webp",
+      "icon": "http://localhost:3002/notify/public/images/avatar-mark-webber.webp",
       "messenger": "Mark Webber",
       "highlight": "reacted to your recent post",
       "update": "My first tournament today!",
