@@ -2,7 +2,7 @@
   "notify":[
     {
       "id": 1,
-      "icon": "https://images2.imgbox.com/b2/2d/8MyM7cwA_o.jpg?download=true",
+      "icon": "images/img1.jpg",
       "messenger": "Mark Webber",
       "highlight": "reacted to your recent post",
       "update": "My first tournament today!",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "icon": "https://imgbox.com/6ceUbQNW",
+      "icon": "images/img2.jpg",
       "messenger": "Angela Gray",
       "highlight": "followed you",
       "update": "",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "icon": "https://imgbox.com/Kd7anwBe",
+      "icon": "images/img3.jpg",
       "messenger": "Jacob Thompson",
       "highlight": "has joined your group",
       "update": "Chess Club",
@@ -36,7 +36,7 @@
     },
     {
       "id": 4,
-      "icon": "https://imgbox.com/YyRqmzaH",
+      "icon": "images/img4.png",
       "messenger": "Rizky Hasanuddin",
       "highlight": "sent you a private message",
       "update": "",
@@ -47,19 +47,19 @@
     },
     {
       "id": 5,
-      "icon": "https://imgbox.com/ouLF6kzw",
+      "icon": "images/img5.png",
       "messenger": "Kimberly Smith",
       "highlight": "commented on your picture",
       "update": "",
       "time": "1 week ago",
       "Msg": "",
       "msgUnread": false,
-      "trfImage": "https://imgbox.com/UtC1hJPa",
+      "trfImage": "images/img-chess.png",
       "isUnread": false
     },
     {
       "id": 6,
-      "icon": "https://photos.app.goo.gl/bfH4XULgLdnkukRQ6",
+      "icon": "images/img6.png",
       "messenger": "Nathan Peterson",
       "highlight": "reacted to your recent post",
       "update": "5 end-game strategies to increase your win rate",
@@ -70,7 +70,7 @@
     },
     {
       "id": 7,
-      "icon": "https://imgbox.com/AO9SPvIF",
+      "icon": "images/img7.jpg",
       "messenger": "Anna Kim",
       "highlight": "left the group",
       "update": "Chess Club",
